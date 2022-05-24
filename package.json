@@ -1,0 +1,19 @@
+{
+  "name": "jsonmerge",
+  "version": "1.0.0",
+  "description": "Extremely lightweight json merging lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON",
+    "merge",
+    "combine",
+    "json",
+    "json-merge",
+    "json-combine"
+  ],
+  "author": "IkeVoodoo",
+  "license": "MIT"
+}
