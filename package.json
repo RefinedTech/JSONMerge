@@ -1,5 +1,5 @@
 {
-  "name": "jsonmerge",
+  "name": "refined-json-merge",
   "version": "1.0.0",
   "description": "Extremely lightweight json merging lib",
   "main": "index.js",
