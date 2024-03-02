@@ -11,4 +11,4 @@ function mergeJSON(a, b) {
     return a;
 }
 
-module.exports = mergeJSON;
+module.exports = { mergeJSON };
